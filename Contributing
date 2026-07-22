@@ -1,0 +1,168 @@
+Contributing to DreamOS
+
+First, thank you for your interest in contributing to DreamOS! 🎉
+
+DreamOS is an ambitious project with the goal of building a lightweight, secure, AI-powered operating system for both PC and mobile devices. Every contribution—whether it's code, documentation, design, testing, or ideas—is appreciated.
+
+---
+
+Before You Start
+
+Please:
+
+- Read the "README.md".
+- Read the "CODE_OF_CONDUCT.md".
+- Check existing Issues before creating a new one.
+- Discuss major features before implementing them.
+
+---
+
+Ways to Contribute
+
+You can help by:
+
+💻 Development
+
+- Fix bugs
+- Improve performance
+- Develop new features
+- Refactor code
+- Write tests
+
+📖 Documentation
+
+- Improve documentation
+- Fix spelling and grammar
+- Write tutorials
+- Improve examples
+
+🎨 Design
+
+- UI/UX improvements
+- Icons
+- Wallpapers
+- Animations
+- Branding
+
+🧪 Testing
+
+- Report bugs
+- Test new features
+- Verify fixes
+- Performance testing
+
+---
+
+Development Guidelines
+
+Please:
+
+- Write clean, readable code.
+- Follow the project's coding standards.
+- Keep functions small and maintainable.
+- Add comments where necessary.
+- Write meaningful commit messages.
+- Test your changes before submitting.
+
+---
+
+Commit Message Examples
+
+Good examples:
+
+Add file system caching
+
+Fix memory leak in scheduler
+
+Improve DreamShield performance
+
+Update documentation
+
+Fix UI animation bug
+
+Avoid messages like:
+
+Update
+
+Fix
+
+Changes
+
+Stuff
+
+---
+
+Pull Requests
+
+Before opening a Pull Request:
+
+- Ensure your code builds successfully.
+- Test your changes.
+- Update documentation if necessary.
+- Keep your Pull Request focused on one feature or fix.
+
+---
+
+Reporting Bugs
+
+When reporting a bug, include:
+
+- Operating system
+- Version
+- Steps to reproduce
+- Expected behavior
+- Actual behavior
+- Screenshots (if applicable)
+
+---
+
+Suggesting Features
+
+Feature requests should include:
+
+- Problem being solved
+- Proposed solution
+- Possible alternatives
+- Additional information
+
+---
+
+Coding Languages
+
+DreamOS may include components written in:
+
+- Rust
+- C
+- C++
+- C#
+- Python
+- Kotlin
+- JavaScript
+- HTML
+- CSS
+
+Use the language appropriate for the component you're working on.
+
+---
+
+Collaboration
+
+We encourage respectful discussions and teamwork.
+
+Every contribution should help make DreamOS:
+
+- Faster
+- More secure
+- More reliable
+- Easier to use
+- Easier to maintain
+
+---
+
+Thank You
+
+Every contribution helps move DreamOS forward.
+
+Thank you for helping build DreamOS.
+
+Dream. Build. Achieve.
